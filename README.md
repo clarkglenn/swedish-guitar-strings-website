@@ -1,10 +1,10 @@
 # Swedish Guitar Strings Website
 
-A modern, responsive website for Swedish Guitar Strings - premium quality guitar strings made in Sweden.
+A modern, responsive website for Swedish Guitar Strings - premium quality guitar strings curated by a Swedish company.
 
 ## 🎸 About
 
-Swedish Guitar Strings represents the finest in Swedish engineering and craftsmanship. Our premium guitar strings are trusted by professional musicians worldwide for their superior tone, durability, and reliability.
+Swedish Guitar Strings represents a Swedish company committed to quality excellence. Our premium guitar strings are carefully curated and trusted by professional musicians worldwide for their superior tone, durability, and reliability.
 
 ## 🌟 Features
 
@@ -155,4 +155,4 @@ For website inquiries or business questions:
 
 ---
 
-**Made with ❤️ in Sweden** 🇸🇪
+**Built with ❤️ in Sweden** 🇸🇪
